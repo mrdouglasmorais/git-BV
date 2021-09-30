@@ -4,4 +4,9 @@
 
 `$ git config --global user.email johndoe@example.com`
 
-## Principais comando do Git.
+## Principais comandos do Git para publicação.
+
+`git add .`
+`git git commit -m "o que foi commitado"`
+`git pus h`
+`git add .`
